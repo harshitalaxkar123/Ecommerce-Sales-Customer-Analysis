@@ -1,0 +1,13 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+
+data/*.xlsx
+data/online_retail_combined.csv
+
+outputs/cleaned_online_retail.csv
+outputs/sales_transactions.csv
+outputs/customer_transactions.csv
+outputs/returns_transactions.csv
+outputs/cancelled_transactions.csv

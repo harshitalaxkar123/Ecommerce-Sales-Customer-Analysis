@@ -1,0 +1,13 @@
+Metric,Value
+Total Records,1067371.0
+Total Columns,9.0
+Missing Descriptions,4382.0
+Missing Customer IDs,243007.0
+Duplicate Records,34335.0
+Cancelled Invoice Records,19494.0
+Negative Quantity Records,22950.0
+Zero Quantity Records,0.0
+Negative Price Records,5.0
+Zero Price Records,6202.0
+Unique Customers,5942.0
+Total Transaction Value,19287250.57
