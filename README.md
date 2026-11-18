@@ -90,6 +90,10 @@ An interactive Power BI dashboard was developed to present key business metrics 
 
 [Open Power BI Dashboard (.pbix)](Ecommerce_Sales_Customer_Dashboard.pbix)
 
+### Dashboard Preview
+
+![Power BI E-commerce Dashboard](outputs/dashboard/PowerBI_Dashboard.png)
+
 ## Visualizations
 
 Python-generated charts are available in:
